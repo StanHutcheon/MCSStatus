@@ -1,2 +1,6 @@
 Use check/config.php to modify which server it checks.
-Have fun!
+
+Requirements:
+ - A webserver running PHP 5 with fsockopen enabled.
+
+That's it, enjoy!
